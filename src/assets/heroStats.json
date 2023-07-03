@@ -1,0 +1,962 @@
+﻿[
+    {
+        "indexHero": "1",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "2",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "3",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "4",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "5",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "6",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "7",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "8",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "9",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "10",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "11",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "12",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "13",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "14",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "15",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "16",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "17",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "18",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "19",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "20",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "21",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "22",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "23",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "24",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "25",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "26",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "27",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "28",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "29",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "30",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "31",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "32",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "33",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "34",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "35",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "36",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "37",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "38",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "39",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "40",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "41",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "42",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "43",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "44",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "45",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "46",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "47",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "48",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "49",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "50",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "51",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "52",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "53",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "54",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "55",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "56",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "57",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "58",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "59",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "60",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "61",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "62",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "63",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "64",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "65",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "66",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "67",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "68",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "69",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "70",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "71",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "72",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "73",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "74",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "75",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "76",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "77",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "78",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "79",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "80",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "81",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "82",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "83",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "84",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "85",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "86",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "87",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "88",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "89",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "90",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "91",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "92",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "93",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "94",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "95",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "96",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "97",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "98",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "99",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "100",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "101",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "102",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "103",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "104",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "105",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "106",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "107",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "108",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "109",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "110",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "111",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "112",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "113",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "114",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "115",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "116",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "117",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "118",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "119",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    },
+    {
+        "indexHero": "120",
+        "pick": "0",
+        "ban": "0",
+        "win": "0",
+        "lose": "0",
+        "winRate": "0"
+    }
+]

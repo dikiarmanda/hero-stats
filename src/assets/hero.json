@@ -1,0 +1,1202 @@
+﻿[
+    {
+        "indexHero": "1",
+        "namaHero": "Miya",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Damage",
+        "laning": "Gold Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "2",
+        "namaHero": "Balmond",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Damage",
+        "spesialisasi2": "Regen",
+        "laning": "EXP Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "3",
+        "namaHero": "Saber",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Charge",
+        "spesialisasi2": "Reap",
+        "laning": "Jungler",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "4",
+        "namaHero": "Alice",
+        "role1": "Mage",
+        "role2": "Tank",
+        "spesialisasi1": "Charge",
+        "spesialisasi2": "Regen",
+        "laning": "Mid Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "5",
+        "namaHero": "Nana",
+        "role1": "Mage",
+        "role2": "Support",
+        "spesialisasi1": "Poke",
+        "spesialisasi2": "Burst",
+        "laning": "Mid Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "6",
+        "namaHero": "Tigreal",
+        "role1": "Tank",
+        "role2": "Support",
+        "spesialisasi1": "Crowd Control",
+        "spesialisasi2": "-",
+        "laning": "Roamer",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "7",
+        "namaHero": "Alucard",
+        "role1": "Fighter",
+        "role2": "Assassin",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "8",
+        "namaHero": "Karina",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Magic Damage",
+        "laning": "Jungler",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "9",
+        "namaHero": "Akai",
+        "role1": "Tank",
+        "role2": "Support",
+        "spesialisasi1": "Guard",
+        "spesialisasi2": "Crowd Control",
+        "laning": "Roamer",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "10",
+        "namaHero": "Franco",
+        "role1": "Tank",
+        "role2": "Support",
+        "spesialisasi1": "Initiator",
+        "spesialisasi2": "Control",
+        "laning": "Roamer",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "11",
+        "namaHero": "Bane",
+        "role1": "Fighter",
+        "role2": "Mage",
+        "spesialisasi1": "Push",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "12",
+        "namaHero": "Bruno",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Burst",
+        "laning": "Gold Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "13",
+        "namaHero": "Clint",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Burst",
+        "laning": "Gold Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "14",
+        "namaHero": "Rafaela",
+        "role1": "Support",
+        "role2": "-",
+        "spesialisasi1": "Regen",
+        "spesialisasi2": "Guard",
+        "laning": "Roamer",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "15",
+        "namaHero": "Eudora",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Control",
+        "spesialisasi2": "Burst",
+        "laning": "Mid Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "16",
+        "namaHero": "Zilong",
+        "role1": "Assassin",
+        "role2": "Fighter",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "17",
+        "namaHero": "Fanny",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Reap",
+        "laning": "Jungler",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "18",
+        "namaHero": "Layla",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Damage",
+        "laning": "Gold Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "19",
+        "namaHero": "Minotaur",
+        "role1": "Tank",
+        "role2": "Support",
+        "spesialisasi1": "Crowd Control",
+        "spesialisasi2": "-",
+        "laning": "Roamer",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "20",
+        "namaHero": "Lolita",
+        "role1": "Support",
+        "role2": "Tank",
+        "spesialisasi1": "Guard",
+        "spesialisasi2": "Crowd Control",
+        "laning": "Roamer",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "21",
+        "namaHero": "Hayabusa",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Burst",
+        "laning": "Jungler",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "22",
+        "namaHero": "Freya",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "23",
+        "namaHero": "Gord",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Poke",
+        "spesialisasi2": "Burst",
+        "laning": "Mid Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "24",
+        "namaHero": "Natalia",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Reap",
+        "laning": "Jungler",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "25",
+        "namaHero": "Kagura",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Poke",
+        "spesialisasi2": "Reap",
+        "laning": "Mid Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "26",
+        "namaHero": "Chou",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Control",
+        "laning": "EXP Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "27",
+        "namaHero": "Sun",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Push",
+        "spesialisasi2": "Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2016"
+    },
+    {
+        "indexHero": "28",
+        "namaHero": "Alpha",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Charge",
+        "spesialisasi2": "Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "29",
+        "namaHero": "Ruby",
+        "role1": "Fighter",
+        "role2": "Tank",
+        "spesialisasi1": "Crowd Control",
+        "spesialisasi2": "Regen",
+        "laning": "EXP Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "30",
+        "namaHero": "Yi Sun-shin",
+        "role1": "Assassin",
+        "role2": "Marksman",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Chase",
+        "laning": "Gold Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "31",
+        "namaHero": "Moskov",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Chase",
+        "laning": "Gold Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "32",
+        "namaHero": "Johnson",
+        "role1": "Tank",
+        "role2": "-",
+        "spesialisasi1": "Support",
+        "spesialisasi2": "Crowd Control",
+        "laning": "Roamer",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "33",
+        "namaHero": "Cyclops",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Poke",
+        "spesialisasi2": "Control",
+        "laning": "Mid Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "34",
+        "namaHero": "Estes",
+        "role1": "Support",
+        "role2": "-",
+        "spesialisasi1": "Regen",
+        "spesialisasi2": "Guard",
+        "laning": "Roamer",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "35",
+        "namaHero": "Hilda",
+        "role1": "Fighter",
+        "role2": "Tank",
+        "spesialisasi1": "Damage",
+        "spesialisasi2": "Regen",
+        "laning": "EXP Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "36",
+        "namaHero": "Aurora",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Crowd Control",
+        "spesialisasi2": "Poke",
+        "laning": "Mid Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "37",
+        "namaHero": "Lapu-Lapu",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "38",
+        "namaHero": "Vexana",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Poke",
+        "spesialisasi2": "Control",
+        "laning": "Mid Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "39",
+        "namaHero": "Roger",
+        "role1": "Fighter",
+        "role2": "Marksman",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "40",
+        "namaHero": "Karrie",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Damage",
+        "laning": "Gold Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "41",
+        "namaHero": "Gatotkaca",
+        "role1": "Tank",
+        "role2": "Fighter",
+        "spesialisasi1": "Crowd Control",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "42",
+        "namaHero": "Harley",
+        "role1": "Mage",
+        "role2": "Assassin",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Poke",
+        "laning": "Jungler",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "43",
+        "namaHero": "Irithel",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Burst",
+        "laning": "Gold Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "44",
+        "namaHero": "Grock",
+        "role1": "Tank",
+        "role2": "-",
+        "spesialisasi1": "Crowd Control",
+        "spesialisasi2": "Initiator",
+        "laning": "Roamer",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "45",
+        "namaHero": "Argus",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Charge",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "46",
+        "namaHero": "Odette",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Poke",
+        "laning": "Mid Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "47",
+        "namaHero": "Lancelot",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Burst",
+        "laning": "Jungler",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "48",
+        "namaHero": "Diggie",
+        "role1": "Support",
+        "role2": "-",
+        "spesialisasi1": "Guard",
+        "spesialisasi2": "Poke",
+        "laning": "Roamer",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "49",
+        "namaHero": "Hylos",
+        "role1": "Tank",
+        "role2": "-",
+        "spesialisasi1": "Guard",
+        "spesialisasi2": "Initiator",
+        "laning": "Roamer",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "50",
+        "namaHero": "Zhask",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Damage",
+        "laning": "Mid Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "51",
+        "namaHero": "Helcurt",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Push",
+        "spesialisasi2": "Burst",
+        "laning": "Jungler",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "52",
+        "namaHero": "Pharsa",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Poke",
+        "laning": "Mid Laner",
+        "thnRilis": "2017"
+    },
+    {
+        "indexHero": "53",
+        "namaHero": "Lesley",
+        "role1": "Marksman",
+        "role2": "Assassin",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Burst",
+        "laning": "Gold Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "54",
+        "namaHero": "Jawhead",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Charge",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "55",
+        "namaHero": "Angela",
+        "role1": "Support",
+        "role2": "-",
+        "spesialisasi1": "Guard",
+        "spesialisasi2": "Support",
+        "laning": "Roamer",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "56",
+        "namaHero": "Gusion",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Magic Damage",
+        "laning": "Jungler",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "57",
+        "namaHero": "Valir",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Damage",
+        "spesialisasi2": "Guard",
+        "laning": "Mid Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "58",
+        "namaHero": "Martis",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Charge",
+        "laning": "EXP Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "59",
+        "namaHero": "Uranus",
+        "role1": "Tank",
+        "role2": "-",
+        "spesialisasi1": "Regen",
+        "spesialisasi2": "-",
+        "laning": "EXP Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "60",
+        "namaHero": "Hanabi",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Damage",
+        "laning": "Gold Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "61",
+        "namaHero": "Chang'e",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Poke",
+        "spesialisasi2": "Burst",
+        "laning": "Mid Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "62",
+        "namaHero": "Kaja",
+        "role1": "Fighter",
+        "role2": "Support",
+        "spesialisasi1": "Control",
+        "spesialisasi2": "Charge",
+        "laning": "EXP Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "63",
+        "namaHero": "Selena",
+        "role1": "Assassin",
+        "role2": "Mage",
+        "spesialisasi1": "Initiator",
+        "spesialisasi2": "Reap",
+        "laning": "Jungler",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "64",
+        "namaHero": "Aldous",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Support",
+        "laning": "EXP Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "65",
+        "namaHero": "Claude",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Chase",
+        "laning": "Gold Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "66",
+        "namaHero": "Vale",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Crowd Control",
+        "laning": "Mid Laner",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "67",
+        "namaHero": "Leomord",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "68",
+        "namaHero": "Lunox",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Damage",
+        "laning": "Mid Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "69",
+        "namaHero": "Hanzo",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Poke",
+        "spesialisasi2": "Burst",
+        "laning": "Jungler",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "70",
+        "namaHero": "Belerick",
+        "role1": "Tank",
+        "role2": "-",
+        "spesialisasi1": "Crowd Control",
+        "spesialisasi2": "Regen",
+        "laning": "Roamer",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "71",
+        "namaHero": "Kimmy",
+        "role1": "Marksman",
+        "role2": "Mage",
+        "spesialisasi1": "Damage",
+        "spesialisasi2": "Magic Damage",
+        "laning": "Gold Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "72",
+        "namaHero": "Thamuz",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "73",
+        "namaHero": "Harith",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Damage",
+        "laning": "Mid Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "74",
+        "namaHero": "Minsitthar",
+        "role1": "Fighter",
+        "role2": "Support",
+        "spesialisasi1": "Initiator",
+        "spesialisasi2": "Crowd Control",
+        "laning": "EXP Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "75",
+        "namaHero": "Kadita",
+        "role1": "Mage",
+        "role2": "Assassin",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Charge",
+        "laning": "Mid Laner",
+        "thnRilis": "2018"
+    },
+    {
+        "indexHero": "76",
+        "namaHero": "Faramis",
+        "role1": "Support",
+        "role2": "Mage",
+        "spesialisasi1": "Guard",
+        "spesialisasi2": "Charge",
+        "laning": "Roamer",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "77",
+        "namaHero": "Badang",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Charge",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "78",
+        "namaHero": "Khufra",
+        "role1": "Tank",
+        "role2": "Support",
+        "spesialisasi1": "Initiator",
+        "spesialisasi2": "Crowd Control",
+        "laning": "Roamer",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "79",
+        "namaHero": "Granger",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Reap",
+        "laning": "Gold Laner",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "80",
+        "namaHero": "Guinevere",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Magic Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "81",
+        "namaHero": "Esmeralda",
+        "role1": "Mage",
+        "role2": "Tank",
+        "spesialisasi1": "Regen",
+        "spesialisasi2": "Mixed Damage",
+        "laning": "Mid Laner",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "82",
+        "namaHero": "Terizla",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Crowd Control",
+        "laning": "EXP Laner",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "83",
+        "namaHero": "X.Borg",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Regen",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "84",
+        "namaHero": "Ling",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Burst",
+        "laning": "Jungler",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "85",
+        "namaHero": "Dyrroth",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Charge",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "86",
+        "namaHero": "Lylia",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Push",
+        "spesialisasi2": "Damage",
+        "laning": "Mid Laner",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "87",
+        "namaHero": "Baxia",
+        "role1": "Tank",
+        "role2": "-",
+        "spesialisasi1": "Support",
+        "spesialisasi2": "Damage",
+        "laning": "Roamer",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "88",
+        "namaHero": "Masha",
+        "role1": "Fighter",
+        "role2": "Tank",
+        "spesialisasi1": "Push",
+        "spesialisasi2": "Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "89",
+        "namaHero": "Wanwan",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Burst",
+        "laning": "Gold Laner",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "90",
+        "namaHero": "Silvanna",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Initiator",
+        "spesialisasi2": "Magic Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2019"
+    },
+    {
+        "indexHero": "91",
+        "namaHero": "Carmilla",
+        "role1": "Support",
+        "role2": "-",
+        "spesialisasi1": "Crowd Control",
+        "spesialisasi2": "Damage",
+        "laning": "Roamer",
+        "thnRilis": "2020"
+    },
+    {
+        "indexHero": "92",
+        "namaHero": "Cecilion",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Poke",
+        "spesialisasi2": "Burst",
+        "laning": "Mid Laner",
+        "thnRilis": "2020"
+    },
+    {
+        "indexHero": "93",
+        "namaHero": "Atlas",
+        "role1": "Tank",
+        "role2": "Support",
+        "spesialisasi1": "Crowd Control",
+        "spesialisasi2": "Initiator",
+        "laning": "Roamer",
+        "thnRilis": "2020"
+    },
+    {
+        "indexHero": "94",
+        "namaHero": "Popol and Kupa",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Push",
+        "spesialisasi2": "Burst",
+        "laning": "Gold Laner",
+        "thnRilis": "2020"
+    },
+    {
+        "indexHero": "95",
+        "namaHero": "Yu Zhong",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Regen",
+        "spesialisasi2": "Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2020"
+    },
+    {
+        "indexHero": "96",
+        "namaHero": "Luo Yi",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Support",
+        "spesialisasi2": "Crowd Control",
+        "laning": "Mid Laner",
+        "thnRilis": "2020"
+    },
+    {
+        "indexHero": "97",
+        "namaHero": "Benedetta",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2020"
+    },
+    {
+        "indexHero": "98",
+        "namaHero": "Khaleed",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Damage",
+        "spesialisasi2": "Regen",
+        "laning": "EXP Laner",
+        "thnRilis": "2020"
+    },
+    {
+        "indexHero": "99",
+        "namaHero": "Barats",
+        "role1": "Tank",
+        "role2": "Fighter",
+        "spesialisasi1": "Damage",
+        "spesialisasi2": "Crowd Control",
+        "laning": "EXP Laner",
+        "thnRilis": "2020"
+    },
+    {
+        "indexHero": "100",
+        "namaHero": "Brody",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Reap",
+        "laning": "Gold Laner",
+        "thnRilis": "2020"
+    },
+    {
+        "indexHero": "101",
+        "namaHero": "Yve",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Poke",
+        "spesialisasi2": "Burst",
+        "laning": "Mid Laner",
+        "thnRilis": "2021"
+    },
+    {
+        "indexHero": "102",
+        "namaHero": "Mathilda",
+        "role1": "Support",
+        "role2": "Assassin",
+        "spesialisasi1": "Initiator",
+        "spesialisasi2": "Guard",
+        "laning": "Roamer",
+        "thnRilis": "2020"
+    },
+    {
+        "indexHero": "103",
+        "namaHero": "Paquito",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2021"
+    },
+    {
+        "indexHero": "104",
+        "namaHero": "Gloo",
+        "role1": "Tank",
+        "role2": "-",
+        "spesialisasi1": "Regen",
+        "spesialisasi2": "Control",
+        "laning": "EXP Laner",
+        "thnRilis": "2021"
+    },
+    {
+        "indexHero": "105",
+        "namaHero": "Beatrix",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Damage",
+        "laning": "Gold Laner",
+        "thnRilis": "2021"
+    },
+    {
+        "indexHero": "106",
+        "namaHero": "Phoveus",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Control",
+        "laning": "EXP Laner",
+        "thnRilis": "2021"
+    },
+    {
+        "indexHero": "107",
+        "namaHero": "Natan",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Magic Damage",
+        "laning": "Gold Laner",
+        "thnRilis": "2021"
+    },
+    {
+        "indexHero": "108",
+        "namaHero": "Aulus",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Damage",
+        "spesialisasi2": "Crowd Control",
+        "laning": "EXP Laner",
+        "thnRilis": "2021"
+    },
+    {
+        "indexHero": "109",
+        "namaHero": "Aamon",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Magic Damage",
+        "laning": "Mid Laner",
+        "thnRilis": "2021"
+    },
+    {
+        "indexHero": "110",
+        "namaHero": "Floryn",
+        "role1": "Support",
+        "role2": "-",
+        "spesialisasi1": "Poke",
+        "spesialisasi2": "Guard",
+        "laning": "Roamer",
+        "thnRilis": "2021"
+    },
+    {
+        "indexHero": "111",
+        "namaHero": "Valentina",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Reap",
+        "laning": "Mid Laner",
+        "thnRilis": "2021"
+    },
+    {
+        "indexHero": "112",
+        "namaHero": "Edith",
+        "role1": "Tank",
+        "role2": "Marksman",
+        "spesialisasi1": "Control",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2021"
+    },
+    {
+        "indexHero": "113",
+        "namaHero": "Yin",
+        "role1": "Fighter",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Control",
+        "laning": "EXP Laner",
+        "thnRilis": "2022"
+    },
+    {
+        "indexHero": "114",
+        "namaHero": "Melissa",
+        "role1": "Marksman",
+        "role2": "-",
+        "spesialisasi1": "Reap",
+        "spesialisasi2": "Damage",
+        "laning": "Gold Laner",
+        "thnRilis": "2022"
+    },
+    {
+        "indexHero": "115",
+        "namaHero": "Xavier",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Damage",
+        "spesialisasi2": "Guard",
+        "laning": "Mid Laner",
+        "thnRilis": "2022"
+    },
+    {
+        "indexHero": "116",
+        "namaHero": "Julian",
+        "role1": "Fighter",
+        "role2": "Mage",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Magic Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2022"
+    },
+    {
+        "indexHero": "117",
+        "namaHero": "Fredrinn",
+        "role1": "Tank",
+        "role2": "Fighter",
+        "spesialisasi1": "Damage",
+        "spesialisasi2": "Chase",
+        "laning": "EXP Laner",
+        "thnRilis": "2022"
+    },
+    {
+        "indexHero": "118",
+        "namaHero": "Joy",
+        "role1": "Assassin",
+        "role2": "-",
+        "spesialisasi1": "Chase",
+        "spesialisasi2": "Damage",
+        "laning": "EXP Laner",
+        "thnRilis": "2022"
+    },
+    {
+        "indexHero": "119",
+        "namaHero": "Novaria",
+        "role1": "Mage",
+        "role2": "-",
+        "spesialisasi1": "Burst",
+        "spesialisasi2": "Poke",
+        "laning": "Mid Laner",
+        "thnRilis": "2023"
+    },
+    {
+        "indexHero": "120",
+        "namaHero": "Arlott",
+        "role1": "Fighter",
+        "role2": "Assassin",
+        "spesialisasi1": "Charge",
+        "spesialisasi2": "Burst",
+        "laning": "EXP Laner",
+        "thnRilis": "2023"
+    }
+]
