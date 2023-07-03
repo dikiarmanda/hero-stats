@@ -1,6 +1,5 @@
 "use client";
-
-import { Button, Navbar } from "flowbite-react";
+import { Button, Navbar, DarkThemeToggle, Flowbite } from "flowbite-react";
 
 export default function NavbarWithCTAButton() {
     return (
@@ -16,15 +15,18 @@ export default function NavbarWithCTAButton() {
                 </span>
             </Navbar.Brand>
             <div className="flex md:order-2">
+                <Flowbite>
+                    <DarkThemeToggle />
+                </Flowbite>
                 <Button>Get started</Button>
                 <Navbar.Toggle />
             </div>
             <Navbar.Collapse>
                 <Navbar.Link active href="#">
-                    <p>Home</p>
+                    <p>Picks</p>
                 </Navbar.Link>
-                <Navbar.Link href="#">About</Navbar.Link>
-                <Navbar.Link href="#">Contact</Navbar.Link>
+                <Navbar.Link href="#">Bans</Navbar.Link>
+                <Navbar.Link href="#">Win Rate</Navbar.Link>
             </Navbar.Collapse>
         </Navbar>
     );
